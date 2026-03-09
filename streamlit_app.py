@@ -129,8 +129,8 @@ best_params   = metrics_data["best_params"]
 # ─────────────────────────────────────────────
 with st.sidebar:
     st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/UW_W-Logo_RGB.svg/200px-UW_W-Logo_RGB.svg.png", width=80)
-    st.title("MSIS 522 · HW1")
-    st.caption("Telco Customer Churn")
+    st.title("Telco Churn Predictor")
+    st.caption("Customer Churn Analysis")
     st.divider()
     st.markdown("**Dataset:** Telco Customer Churn")
     st.markdown("**Task:** Binary Classification")
@@ -168,7 +168,7 @@ with tab1:
                 <h1 style="color:#ffffff; margin:0; font-size:2.1rem; font-weight:800;
                             letter-spacing:-0.5px;">Telco Customer Churn Prediction</h1>
                 <p style="color:#a8c8f8; margin:4px 0 0 0; font-size:1rem;">
-                    MSIS 522 · HW1 &nbsp;|&nbsp; Foster School of Business, University of Washington
+                    End-to-End Machine Learning Pipeline &nbsp;|&nbsp; Binary Classification
                 </p>
             </div>
         </div>
