@@ -1,0 +1,23 @@
+# Generated model artifacts (run train_models.py to regenerate)
+models/
+
+# Claude Code settings
+.claude/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
