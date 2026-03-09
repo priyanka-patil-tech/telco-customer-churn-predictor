@@ -1,6 +1,3 @@
-# Generated model artifacts (run train_models.py to regenerate)
-models/
-
 # Claude Code settings
 .claude/
 
